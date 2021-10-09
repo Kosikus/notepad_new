@@ -1,5 +1,3 @@
 notepad.bat
 .idea
-./lib/Memo*
-./lib/Link*
-./lib/Task*
+./lib/*.txt
